@@ -16,6 +16,7 @@ https://www.cnblogs.com/jhcelue/p/7040522.html
 ## 常见请求头
 https://blog.csdn.net/qq_30553235/article/details/79282113
 
+---------------------------
 
 The CSRF Token can be viewed in the html struture of 1st GET </br>
 But it seems the token is useless
