@@ -18,6 +18,11 @@ https://blog.csdn.net/qq_30553235/article/details/79282113
 
 ## 一些不错的教程
 4节课教你写爬虫：https://www.cnblogs.com/youmumzyx/p/5499038.html
+京东定向爬虫(python) https://www.cnblogs.com/Erma-king/p/5281967.html 
+
+## 平台
+https://www.shenjianshou.cn/ 有点厉害的
+
 
 ---------------------------
 
